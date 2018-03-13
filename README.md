@@ -4,6 +4,9 @@
 ## setup
 
 ```js
+sudo apt-get install python-pip
+pip install construct==2.5.2
+sudo pip install quark-hash (For quark)
 sudo pip install git+git://github.com/nasa8x/mixhash.git
 
 git clone https://github.com/nasa8x/genesis-block.git
